@@ -7,7 +7,7 @@ Release: 1
 Summary: Flexibly reshape data: a reboot of the reshape package
 Group: Sciences/Mathematics
 License: MIT
-URL: http://cran.r-project.org/web/packages/%{packname}/index.html
+URL: https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0: http://cran.r-project.org/src/contrib/%{packname}_1.2.2.tar.gz
 BuildArch: noarch
 Requires: R-core R-plyr R-stringr R-lattice
